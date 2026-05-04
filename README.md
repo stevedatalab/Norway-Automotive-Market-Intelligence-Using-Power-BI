@@ -1,6 +1,7 @@
 # Norway-Automotive-Market-Intelligence-Using-Power-BI
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a1ec70cc-838d-4c1c-a90e-01417b0d4dea" />
 "In year 2015 towards 2017, Norway did something no other nation has: As an analyst, I didn't just want to see the headline; I wanted to see the mechanics of this shift. This repository contains the end-to-end data pipeline—from raw registration logs to a high-fidelity business intelligence suite—designed to answer 7 critical business requirements."
+
 a) Display the units sold for each car brand? 
 
 b) How much revenue was generated for each car model?
